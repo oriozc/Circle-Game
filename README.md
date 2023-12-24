@@ -2,6 +2,6 @@ the project consists of a player - a blue circle, that its purpose is to eat all
 
 the player can move with the joystick and can eat the enemies by going over them.
 
-when the player eat an enemy, he grows.
+when the player eata an enemy, he grows.
 
-when the player thouch a bomb - the game is over!
+when the player thouches a bomb - the game is over!
